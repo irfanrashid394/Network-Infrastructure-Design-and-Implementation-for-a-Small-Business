@@ -116,9 +116,21 @@ It demonstrates a practical approach to small office networking and serves as a 
 
 ---
 
-## 📂 Files
+## 📂 Files Included
 
-Full documentation including topology, IP plans, configurations, and testing logs is available 
-Cisco oac
+This repository contains all relevant files for reviewing and reproducing the project:
+
+- `Network Infrastructure Design and Implementation.docx` – Full technical documentation including:
+  - Business requirements
+  - IP addressing and subnetting
+  - VLAN setup
+  - NAT and DHCP configurations
+  - ACLs and security settings
+  - Configuration walkthroughs and verification tests
+  - Conclusion and future improvements
+
+- `network topology.pkt` – Cisco Packet Tracer simulation file for hands-on interaction with the network setup.
+
+> Use the `.pkt` file to explore the complete working network, including devices, configurations, and connectivity tests.
 
 ---
